@@ -1,0 +1,2 @@
+"DNA polymorphism id" "Map Set(外部v5)" Chr Start End LG MP
+9_12662697     10.0 92.8
